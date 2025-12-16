@@ -1,6 +1,6 @@
 # Network Laboratory Topology: FarizHusainAlbar
 
-Repositori ini berisi file topologi jaringan untuk **EVE-NG / UNETLAB**. Lab ini mensimulasikan jaringan perusahaan skala kecil-menengah dengan hierarki Core/Distribution dan Access layer, lengkap dengan layanan DHCP, Inter-VLAN Routing, dan konektivitas Internet melalui NAT.
+Repositori ini berisi file topologi jaringan untuk **EVE-NG / UNETLAB**. Lab ini mensimulasikan jaringan perusahaan skala kecil-menengah dengan hierarki Core / Distribution dan Access layer, lengkap dengan layanan DHCP, Inter-VLAN Routing, dan konektivitas Internet melalui NAT.
 
 ## Deskripsi Proyek
 Lab ini mendemonstrasikan konfigurasi routing dan switching fundamental serta layanan jaringan esensial. Topologi terdiri dari Router Gateway, L3 Core Switch, L2 Access Switches, dan beberapa end-devices (Server & Client).
