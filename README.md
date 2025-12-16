@@ -68,6 +68,3 @@ Daftar node yang digunakan dalam lab ini:
 
 ## Author
 **Fariz Husain Albar**
-
----
-*Dokumentasi ini dibuat secara otomatis berdasarkan ekstraksi konfigurasi dari file XML topologi.*
